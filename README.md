@@ -38,3 +38,13 @@ Data wrangling, which consists of:
 Storing, analyzing, and visualizing our wrangled data
 
 Reporting on 1) data wrangling efforts and 2) data analyses and visualizations.
+
+## Resource
+https://github.com/abodacs/Wrangle-and-Analyze-Data-DAND-project
+https://github.com/RedRock42/Udacity-Nanodegree-Portfolio/tree/master/P4.Wrangling%20%26%20Analyzing%20Twitter%20Data
+https://github.com/MrGeislinger/UdacityDAND_Proj_WrangleAndAnalyzeData
+https://github.com/gouravaich/data-analyst-nanodegree/tree/master/P3%20-%20Wrangle%20and%20Analyze%20Data
+https://stackoverflow.com/questions/42518864/convert-json-data-from-request-into-pandas-dataframe
+https://anaconda.org/conda-forge/tweepy
+https://stackoverflow.com/questions/16419670/increase-distance-between-title-and-plot-in-matplolib
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
